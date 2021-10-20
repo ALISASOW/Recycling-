@@ -1,0 +1,64 @@
+body{
+  background-color:WHITE;
+  }
+  
+h1{
+  color:lightblue;
+  font-family:helvetica;
+  font-size:50px;
+  text-align:center;
+  }
+  
+  nav {
+    
+  }
+  
+  nav a{
+    float: right;
+    padding:10px;
+    display:block;
+    color:#ff9999;
+  }
+  
+
+ 
+
+#img1{
+    width:10%;
+    height:10%;
+    
+    
+  }
+  
+   
+ #img2{
+    width:40%;
+    height:40%;
+ }
+ 
+ p1{
+   color:green;
+   text-align:left;
+   font-size:25px;
+ }
+   
+   p2{
+     color:grey;
+     font-family:arial;
+     font-size:30px;
+     
+     
+   }
+   
+   p{
+     padding:25px 50px 70px 90px;
+   }
+   
+footer{
+  text-align:center;
+  position:fixed;
+  width:100%;
+  background-color:red;
+  color:white;
+}
+   
